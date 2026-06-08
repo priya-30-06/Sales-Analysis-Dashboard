@@ -59,14 +59,16 @@ The Power BI dashboard provides interactive business intelligence and helps anal
 
 ### Excel Dashboard
 
-(Add Excel dashboard screenshot here)
+<img width="1210" height="637" alt="Screenshot (51)" src="https://github.com/user-attachments/assets/db88b68a-7f3e-460b-ab96-9657abaa2a40" />
+
 
 ### Power BI Dashboard
 
-(Add Power BI dashboard screenshot here)
+<img width="1233" height="688" alt="Screenshot (52)" src="https://github.com/user-attachments/assets/6b6cb5df-4588-4ef1-bba5-5a318027d358" />
+
 
 ## Author
 
-Priya Maheswari
+Priya 
 Aspiring Data Analyst | Excel | Power BI | Data Visualization
 
