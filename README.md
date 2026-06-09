@@ -54,6 +54,32 @@ The Power BI dashboard provides interactive business intelligence and helps anal
 * Evaluated shipping mode profitability.
 * Analyzed customer segments.
 * Tracked business growth using trend analysis.
+ 
+## Google Looker Studio Dashboard
+
+Created an interactive sales analytics dashboard using Google Looker Studio.
+
+### Features
+
+* KPI Cards (Sales, Profit, Quantity, Profit Margin)
+* Interactive Filters (City, Region, Year)
+* Region-wise Sales Analysis
+* Quantity by Category
+* Profit by Ship Mode
+* Profit by Year
+* State-wise Sales Analysis
+
+### Tools Used
+
+* Google Looker Studio
+* CSV Dataset
+* Data Visualization
+* Dashboard Design
+
+### Outcome
+
+Built an interactive business dashboard that enables users to explore sales performance through dynamic filtering and visual analytics.
+  
 
 ## Dashboard Screenshots
 
@@ -66,6 +92,10 @@ The Power BI dashboard provides interactive business intelligence and helps anal
 
 <img width="1233" height="688" alt="Screenshot (52)" src="https://github.com/user-attachments/assets/6b6cb5df-4588-4ef1-bba5-5a318027d358" />
 
+
+### Google Looker Studio
+
+<img width="722" height="518" alt="Screenshot (57)" src="https://github.com/user-attachments/assets/16803f04-b2ae-469a-93b8-64c3efea14ef" />
 
 ## Author
 
